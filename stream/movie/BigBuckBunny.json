@@ -2,7 +2,15 @@
   "streams": [
     {
       "availability": 1,
-      "url": "https://ia601706.us.archive.org/31/items/watch-that-time-i-got-reincarnated-as-a-slime-season-3-online-fr/Watch%20That%20Time%20I%20Got%20Reincarnated%20as%20a%20Slime%20Season%203%20online%20fr.ia.mp4"
+      "url": "https://ia601706.us.archive.org/31/items/watch-that-time-i-got-reincarnated-as-a-slime-season-3-online-fr/Watch%20That%20Time%20I%20Got%20Reincarnated%20as%20a%20Slime%20Season%203%20Online%"
+    }
+  ],
+  "subtitles": [
+    {
+      "language": "en",
+      "label": "English",
+      "url": "https://archive.org/download/master-master/subtitle-eng.vtt"
     }
   ]
 }
+
