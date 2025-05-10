@@ -5,7 +5,7 @@
   "description": "Example Add-on",
   "resources": ["catalog", "meta", "stream"],
   "types": ["movie"],
-  "catalogs": [www
+  "catalogs": [
     {
       "type": "movie",
       "id": "BigBuckBunnyCatalog",
