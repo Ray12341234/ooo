@@ -4,7 +4,7 @@
   "name": "Now.sh Example",
   "description": "Example Add-on",
   "resources": ["catalog", "meta", "stream"],
-  "types": ["movie"],hfdjs
+  "types": ["movie"],
   "catalogs": [
     {
       "type": "movie",
