@@ -1,7 +1,7 @@
 {
-  "id": "com.stremio.nowexample",
+  "id": "com.stremio.now",
   "version": "0.0.1",
-  "name": "Now.sh Example",
+  "name": "noah",
   "description": "Example Add-on",
   "resources": ["catalog", "meta", "stream","subtitles"],
   "types": ["movie"],
