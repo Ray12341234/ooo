@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "name": "ciel",
   "description": "Example Add-on",
-  "resources": ["catalog", "meta", "stream", "subtitles"],
+  "resources": ["catalog", "meta", "stream"],
   "types": ["movie"],
   "catalogs": [
     {
