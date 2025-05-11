@@ -2,7 +2,15 @@
   "streams": [
     {
       "availability": 1,
-      "url": "https://ia801709.us.archive.org/3/items/master-master/master%20%5Bmaster%5D.mp4",
+      "url": "https://ia801709.us.archive.org/3/items/master-master/master%20%5Bmaster%5D.mp4"
+    }
+  ],
+  "subtitles": [
+    {
+      "language": "en",
+      "label": "English",
+      "url": "https://raw.githubusercontent.com/Ray12341234/ooo/refs/heads/main/subtitles/movie/en-subtitles.vtt"
     }
   ]
 }
+
