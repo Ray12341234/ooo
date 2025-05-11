@@ -6,7 +6,7 @@
   "resources": ["catalog", "meta", "stream", "subtitles"],
   "types": ["movie"],
   "catalogs": [
-    {
+    {ghfjdk,s.a
       "type": "movie",
       "id": "BigBuckBunnyCatalog",
       "name": "Big Buck Bunny Catalog"
