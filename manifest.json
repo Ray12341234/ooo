@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "name": "Noah",
   "description": "Example Add-on",
-  "resources": ["catalog", "meta", "stream", "subtitles"],
+  "resources": ["catalog", "meta", "stream", "subtitles"],fhjds
   "types": ["movie"],
   "catalogs": [
     {
