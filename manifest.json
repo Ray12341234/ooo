@@ -1,9 +1,9 @@
 {
   "id": "com.stremio.now",
   "version": "0.0.1",
-  "name": "noah",
+  "name": "Noah",
   "description": "Example Add-on",
-  "resources": ["catalog", "meta", "stream","subtitles"],
+  "resources": ["catalog", "meta", "stream", "subtitles"],
   "types": ["movie"],
   "catalogs": [
     {
@@ -11,5 +11,7 @@
       "id": "BigBuckBunnyCatalog",
       "name": "Big Buck Bunny Catalog"
     }
-  ]
+  ],
+  "idPrefixes": ["BigBuckBunny"]
 }
+
