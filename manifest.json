@@ -1,7 +1,7 @@
 {
   "id": "com.stremio.now",
   "version": "0.0.1",
-  "name": "ciel",
+  "name": "manastar",
   "description": "Example Add-on",
   "resources": ["catalog", "meta", "stream"],
   "types": ["movie"],
