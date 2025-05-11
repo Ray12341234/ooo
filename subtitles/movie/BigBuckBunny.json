@@ -1,7 +1,13 @@
 {
+  "meta": {
+    "id": "BigBuckBunny",
+    "name": "Big Buck Bunny"
+  },
   "subtitles": [
     {
       "lang": "eng",
+      "language": "English", 
+      "id": "eng-subtitle",
       "url": "https://archive.org/download/master-master/subtitle-eng.vtt"
     }
   ]
