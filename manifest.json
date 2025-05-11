@@ -2,7 +2,7 @@
   "id": "com.stremio.now",
   "version": "0.0.1",
   "name": "Noah",
-  "description": "Example Add-on",x
+  "description": "Example Add-on",
   "resources": ["catalog", "meta", "stream", "subtitles"],
   "types": ["movie"],
   "catalogs": [
